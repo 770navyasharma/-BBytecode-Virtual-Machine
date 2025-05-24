@@ -18,8 +18,8 @@ export default function Navbar() {
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-6 text-lg font-medium text-gray-700">
           <a href="#home" className="hover:text-pink-500">Home</a>
-          <a href="#features" className="hover:text-pink-500">Features</a>
           <a href="#playground" className="hover:text-pink-500">Playground</a>
+          <a href="#features" className="hover:text-pink-500">Features</a>
           <a href="#learn" className="hover:text-pink-500">Learn</a>
         </div>
 
