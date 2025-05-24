@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+:target {
+  scroll-margin-top: 80px; /* adjust if you have a sticky header */
+}
