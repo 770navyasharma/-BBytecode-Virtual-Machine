@@ -1,0 +1,4 @@
+manlo x = 10
+manlo y = 2.5
+manlo z = true
+display(x, y, z, "Hello World", false)
